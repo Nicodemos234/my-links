@@ -8,16 +8,28 @@ const poppinsDesc = Poppins({weight: '400'});
 
 const LINKS = [
   {
+    name: "VÍDEO NOVO - RX 580 Unboxing e testes",
+    url: "https://www.youtube.com/watch?v=ew7D0Wl942g",
+  },
+  {
+    name: "Twitch - Lives",
+    url: "https://www.twitch.tv/nicodemos234",
+  },
+  {
+    name: "Tiktok - Cortes da Live", 
+    url: "https://www.tiktok.com/@nicodemos234"
+  },
+  {
+    name: "Twitter - Quem ta triste não ta mais",
+    url: "https://twitter.com/Nicodemos234"
+  },
+  {
     name: "Github - Codegos",
     url: "https://github.com/Nicodemos234",
   },
   {
     name: "Youtube - Unboxings e coisas aleatórias",
     url: "https://www.youtube.com/c/Nicodemos234?sub_confirmation=1",
-  },
-  {
-    name: "Twitch - Lives",
-    url: "https://www.twitch.tv/nicodemos234",
   },
   {
     name: "Spotify - Musgas",
